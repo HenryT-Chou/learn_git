@@ -1,0 +1,14 @@
+// this isn't suppose to work, it's just a dummy practice file
+
+#include <iostream>
+#include <math>
+
+int main()
+{
+	int x, y, sum;
+	x = 6;
+	y = 7;
+	sum = x + y;
+	cout << "this is the sum:" + sum << endl;
+
+}
