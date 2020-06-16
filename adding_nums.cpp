@@ -1,7 +1,6 @@
 // this isn't suppose to work, it's just a dummy practice file
 
 #include <iostream>
-#include <math>
 
 int main()
 {
@@ -9,8 +8,7 @@ int main()
 	x = 6;
 	y = 7;
 	sum = x + y;
-	std::cout << "this is the sum:" + sum << std::endl;
+	std::cout << "this is the sum: " << sum << std::endl;
 
 }
 
-hi from kaden 
