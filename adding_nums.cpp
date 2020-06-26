@@ -5,8 +5,8 @@
 int main()
 {
 	int x, y, sum;
-	x = 100;
-	y = 5;
+	x = 1005;
+	y = 51;
 	sum = x + y;
 	std::cout << "this is the sum: " << sum << std::endl;
 
